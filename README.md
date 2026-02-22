@@ -58,7 +58,7 @@ logos/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/luwak-products/artha-icons.git
+   git clone https://github.com/luwak-tech/artha-icons.git
    cd artha-icons
    ```
 
