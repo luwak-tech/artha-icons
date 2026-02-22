@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  artha-icons-sync:
+    build: .
+    volumes:
+      - ./logos:/app/logos
+      - ./data:/app/data
+    restart: "no" # Runs as a cron/one-off sync

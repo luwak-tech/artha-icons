@@ -1,0 +1,9 @@
+/data/*
+/logos/*
+/tmp
+*.exe
+*.log
+.DS_Store
+requirement.md
+
+internal/provider/data/tv_urls.txt
