@@ -1,9 +1,12 @@
-/data/*
-/logos/*
+# /data/*
+# /logos/*
+# Changed to tracked for GitHub Pages deployment:
+data/mapping.json
+logos/
 /tmp
 *.exe
 *.log
 .DS_Store
 requirement.md
 
-internal/provider/data/tv_urls.txt
+/data/tv_urls.txt
