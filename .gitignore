@@ -1,8 +1,3 @@
-# /data/*
-# /logos/*
-# Changed to tracked for GitHub Pages deployment:
-data/mapping.json
-logos/
 /tmp
 *.exe
 *.log
